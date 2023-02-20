@@ -10,4 +10,3 @@ BstNode *bstRoot;
 void bstInsert(BstNode **rootp, char *str);
 void bstPrint(BstNode *root);
 void bstClear(BstNode **rootp);
-
